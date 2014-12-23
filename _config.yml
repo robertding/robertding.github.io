@@ -3,8 +3,8 @@ title: RobertDing
 email: RobertDingx@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     42! the answer to life the universe and everything
-baseurl: "ding" # the subpath of your site, e.g. /blog/
-url: "http://robertding.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 github_username:  RobertDing
 
 # Build settings
