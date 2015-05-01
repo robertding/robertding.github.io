@@ -8,6 +8,7 @@ title: 我想做的一些事情
 - 跟着SICP做完lisp解释器
 - 用looboo写算法导论的算法
 - 完成lfs操作系统
+- 基于jekyll完成个人博客改造
 - kv存储
 - 小型数据局
 - web框架
