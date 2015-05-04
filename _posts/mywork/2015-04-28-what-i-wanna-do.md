@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news_item
 title: 我想做的一些事情
 ---
 
