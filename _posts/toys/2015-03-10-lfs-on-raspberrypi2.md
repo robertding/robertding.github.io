@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 在树莓派2上折腾LFS始末
+categories: toys
 ---
 
 ####工具

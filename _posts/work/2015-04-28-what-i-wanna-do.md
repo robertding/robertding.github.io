@@ -1,6 +1,7 @@
 ---
 layout: news_item
 title: 我想做的一些事情
+categories: work
 ---
 
 ##### 想做的项目
