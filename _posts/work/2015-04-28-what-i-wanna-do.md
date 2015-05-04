@@ -4,7 +4,7 @@ title: 我想做的一些事情
 categories: work
 ---
 
-##### 想做的项目
+##### 项目
 - 实现脚本语言looboo
 - 跟着SICP做完lisp解释器
 - 用looboo写算法导论的算法
