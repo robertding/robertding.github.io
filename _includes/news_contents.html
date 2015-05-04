@@ -1,0 +1,23 @@
+<div class="unit one-fifth hide-on-mobiles">
+  <aside>
+    <ul>
+      <li class="{% if page.title == 'blog' %}current{% endif %}">
+        <a href="/blog/">All blog</a>
+      </li>
+      <li class="{% if page.url contains 'thinking' %}current{% endif %}">
+        <a href="/blog/thinking/">Thinking</a>
+      </li>
+      <li class="{% if page.url contains 'books' %}current{% endif %}">
+        <a href="/blog/books/">Books</a>
+      </li>
+    </ul>
+    <h4>Recent Posted</h4>
+    <ul>
+      {% for post in site.posts limit:5 %}
+      <li class="{% if page.title == post.title %}current{% endif %}">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+    </ul>
+  </aside>
+</div>
