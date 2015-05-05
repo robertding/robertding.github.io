@@ -18,6 +18,7 @@ categories: work
 - 跟着UNIX高级环境编程做完
 - 实现一个操作系统
 - 实现与理解设计模式
+- 初步完成awesomepip.com
 
 <!--break-->
 
