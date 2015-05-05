@@ -5,11 +5,11 @@ categories: work
 ---
 
 ##### 项目
-- [x]实现脚本语言looboo
+- [ ] 实现脚本语言looboo
 - 跟着SICP做完lisp解释器
 - 用looboo写算法导论的算法
 - 完成lfs操作系统
-- 基于jekyll完成个人博客改造
+- [x] 基于jekyll完成个人博客改造
 - 参与firefly研发
 - kv存储
 - 小型数据局
