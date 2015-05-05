@@ -5,7 +5,7 @@ categories: work
 ---
 
 ##### 项目
-- 实现脚本语言looboo
+- [x]实现脚本语言looboo
 - 跟着SICP做完lisp解释器
 - 用looboo写算法导论的算法
 - 完成lfs操作系统
