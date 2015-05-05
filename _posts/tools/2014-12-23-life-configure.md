@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news_item
 title: 锤子与斧头
 categories: tools
 ---

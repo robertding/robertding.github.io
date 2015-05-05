@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news_item
 title: 在树莓派2上折腾LFS始末
 categories: toys
 ---

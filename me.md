@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: bare_docs
 title: 关于作者
 permalink: /me/
 ---
