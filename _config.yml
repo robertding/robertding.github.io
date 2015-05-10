@@ -10,3 +10,5 @@ author: robertding
 
 # Build settings
 markdown: kramdown
+
+layout: news_item

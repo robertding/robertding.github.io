@@ -17,6 +17,8 @@ categories: work
 - flask_security
 - flask-social-blueprint
 
+<!--break-->
+
 #### 数据
 - pymongo
 - mongoengine
