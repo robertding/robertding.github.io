@@ -72,9 +72,14 @@ B的地址为192.2.1.1   地址块 192.2.1.0/24  地址范围 192.2.1.0 ~ 192.2.
 ## 计算机的IP地址为211.186.145.23，其MAC地址为DF,DE,CD,BC,AB,98想Ping通IP地址为211.186.146.75的计算机，但不知道对方的MAC地址，请问至少需要哪两个协议才能完成这项工作，给出其工作步骤以及IP为211.186.145.23计算机发出协议包的包(帧)头内容。
 
 ARP 协议与 ICMP 协议
+
 [Ping wiki](http://en.wikipedia.org/wiki/Ping_(networking_utility))
+
 [Ping and ICMP](http://images.globalknowledge.com/wwwimages/whitepaperpdf/WP_Mays_Ping.pdf)
+
 [ICMP vs ARP](http://archive09.linux.com/feature/50596)
+
+把这三个链接看明白就行了 
 
 ## 设计一段程序，将0，1,2,3,4,5，6，7，A等9个数字，通过以太网发出去，其中源地址为6,5,4,3,2,1，目的地址为广播地址
 
