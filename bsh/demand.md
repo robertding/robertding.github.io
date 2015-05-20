@@ -2,7 +2,7 @@
 layout: news_item
 title: 毕设概要 
 categories: bsh
-permalink: /bsh/1/
+permalink: /bsh/
 ---
 
 ## 绪论
